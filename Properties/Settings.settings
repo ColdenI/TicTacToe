@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tic_Tac_Toe.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="X_po_1" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">3, 3</Value>
+    </Setting>
+    <Setting Name="X_po_2" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">87, 87</Value>
+    </Setting>
+    <Setting Name="O_po_1" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">91, 3</Value>
+    </Setting>
+    <Setting Name="O_po_2" Type="System.Drawing.Point" Scope="User">
+      <Value Profile="(Default)">174, 87</Value>
+    </Setting>
+    <Setting Name="stat_go" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="stat_win" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="stat_dr" Type="System.UInt32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
